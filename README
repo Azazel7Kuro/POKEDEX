@@ -1,0 +1,15 @@
+Organisation :
+
+Dans le dossier modèle on retrouve le fichier de connexion à la base de donnée et les classes type et pokemon.
+
+Dans le dossier controleur se trouve le controleur.
+
+Dans le dossier public on retrouve le fichier de style, le logo d'accueil, le logo du site ainsi que la police d'écriture choisie.
+
+Dans le dossier des vues on y retrouve les pages accueil, test, la page d'erreur et le gabarit.
+
+Enfin dans le dossier source on y retrouve les sources comme le script d'ajout des tables de la base de donnée.
+
+Problème :
+
+J'ai rencontré un problème lors de l'affichage du tableau dans la page test, toutes les informations sont affichées, mais les pokemons ayant deux types sont affiché deux fois, une fois pour chaque type, ce qui n'est pas très optimisé.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE operations SYSTEM "histo.dtd">
+<operations>
+    <operation>
+        <type>other</type>
+        <horodate>2022-11-29 16:13:46</horodate>
+        <desc>Création du fichier XML</desc>
+    </operation>
+<operation><type>modification</type><horodate>15-03-2023 18:18:23</horodate><desc>La taille(8) et le poids(8) de [460] modifiés.</desc></operation><operation><type>modification</type><horodate>15-03-2023 18:18:29</horodate><desc>La taille(8) et le poids(8) de [460] modifiés.</desc></operation><operation><type>modification</type><horodate>15-03-2023 18:27:40</horodate><desc>La taille(-&gt;8) et le poids(-&gt;8) de [460] modifiés.</desc></operation><operation><type>modification</type><horodate>15-03-2023 18:28:31</horodate><desc>La taille(-&gt;8) et le poids(-&gt;8) de [460] modifiés.</desc></operation><operation><type>modification</type><horodate>15-03-2023 18:34:11</horodate><desc>La taille(8-&gt;10) et le poids(8-&gt;100) de abomasnow[460] modifiés.</desc></operation><operation><type>modification</type><horodate>15-03-2023 18:36:27</horodate><desc>La taille (10-&gt;666) et le poids (100-&gt;666) de abomasnow [ id = 460] modifiés.</desc></operation></operations>
